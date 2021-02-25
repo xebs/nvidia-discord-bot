@@ -1,4 +1,5 @@
 import requests
+import time
 from datetime import datetime
 
 RTX_3080 = "https://api.nvidia.partners/edge/product/search?page=1&limit=9&locale=en-gb&gpu=RTX%203080"
